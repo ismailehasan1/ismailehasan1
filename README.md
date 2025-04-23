@@ -1,16 +1,74 @@
-## Hi there 👋
+### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Ismaile Hasan">Trinh Minh Triet</a> 👋
 
-<!--
-**ismailehasan1/ismailehasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)
+[![trinhminhtriet's Facebook Profile](images/facebook.png)](https://www.facebook.com/mi.hasan.395/)
+[![trinhminhtriet's X Profile](images/twitter.png)](https://x.com/trinhminhtriet)
+[![trinhminhtriet's Credly Profile](https://github.com/readytensor)](https://app.readytensor.ai/users/ismailehasanlio1)
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Glad to see you here!
+
+<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="320px" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Trinh Minh Triet (trinhminhtriet).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: contact@trinhminhtriet.com
+- 💬 Skype: trinhminhtriet
+- 🌐 Website: https://trinhminhtriet.com
+
+## 🤝 Let's Connect! 
+
+I'm always excited to connect with fellow developers and tech enthusiasts! 
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) - don't forget to mention you found me through GitHub! 😊
+
+## Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinhminhtriet&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhtriet&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+
+## 👷 Check out what I'm currently working on
+
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/postcage](https://github.com/trinhminhtriet/postcage) - 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration. (today)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (3 days ago)
+- [trinhminhtriet/readme-markgen-action](https://github.com/trinhminhtriet/readme-markgen-action) - GitHub Action - Automatically generate and update markdown content like a README.md (6 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (6 days ago)
+- [trinhminhtriet/docker-activity](https://github.com/trinhminhtriet/docker-activity) - 🚀 Monitor Docker containers' stats and energy usage with Intel RAPL support, built for efficiency! (1 week ago)
+- [trinhminhtriet/gotunnel](https://github.com/trinhminhtriet/gotunnel) - 🚀 Minimal Go-based tunneling tool for seamless localhost public access. (1 week ago)
+- [trinhminhtriet/a-star-search](https://github.com/trinhminhtriet/a-star-search) - A* (A-star) algorithm is a widely used graph traversal and pathfinding algorithm known for its completeness, optimality, and efficiency. (1 week ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (1 week ago)
+
+## 👯 Check out my recent followers
+
+- [connormccarl](https://github.com/connormccarl)
+- [PatelVaishvikk](https://github.com/PatelVaishvikk)
+- [orayachan](https://github.com/orayachan)
+- [gdubon8806](https://github.com/gdubon8806)
+- [fpalvim](https://github.com/fpalvim)
+- [itrapnauskas](https://github.com/itrapnauskas)
+- [Ashwin-stack2005](https://github.com/Ashwin-stack2005)
+- [m-Vefa21](https://github.com/m-Vefa21)
+- [eypsay](https://github.com/eypsay)
+- [Al-Mahmud0](https://github.com/Al-Mahmud0)
+
+## ⭐ Recent stars
+
+- [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops (today)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 days ago)
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README (2 days ago)
+- [jakartaee/common-annotations-api](https://github.com/jakartaee/common-annotations-api) - Jakarta Annotations (2 days ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 days ago)
+
+## 🔨 Latest Pull Requests I published
+
+- [Develop](https://github.com/trinhminhtriet/blast/pull/13) on [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) (2 days ago)
+- [Develop](https://github.com/trinhminhtriet/procx/pull/24) on [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/ftree/pull/8) on [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/spiko/pull/13) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (2 weeks ago)
+- [Develop](https://github.com/trinhminhtriet/spiko/pull/12) on [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) (2 weeks ago)
