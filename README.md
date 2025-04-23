@@ -1,9 +1,9 @@
-### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Ismaile Hasan">Trinh Minh Triet</a> 👋
+### Hi there, I'm <a href="https://sites.google.com/view/ismailehasan/home" target="_blank" title="Ismaile Hasan">Ismaile Hasan</a> 👋
 
 [![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)
 [![trinhminhtriet's Facebook Profile](images/facebook.png)](https://www.facebook.com/mi.hasan.395/)
 [![trinhminhtriet's X Profile](images/twitter.png)](https://x.com/trinhminhtriet)
-[![trinhminhtriet's Credly Profile](https://github.com/readytensor)](https://app.readytensor.ai/users/ismailehasanlio1)
+[![trinhminhtriet's Credly Profile](images/ready_tensor.png)](https://app.readytensor.ai/users/ismailehasanlio1)
 
 </br>
 
