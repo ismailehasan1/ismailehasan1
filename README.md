@@ -1,8 +1,8 @@
 ### Hi there, I'm <a href="https://sites.google.com/view/ismailehasan/home" target="_blank" title="Ismaile Hasan">Ismaile Hasan</a> 👋
 
-[![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)
-[![trinhminhtriet's Facebook Profile](images/facebook.png)](https://www.facebook.com/mi.hasan.395/)
-[![trinhminhtriet's Xing Profile](images/xing.png)]([https://x.com/trinhminhtriet](https://www.xing.com/profile/Ismaile_Hasan/web_profiles?expandNeffi=true))
+[![Hasan's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)
+[![Hasan's Facebook Profile](images/facebook.png)](https://www.facebook.com/mi.hasan.395/)
+[![Hasan's Xing Profile](images/xing.png)](https://www.xing.com/profile/Ismaile_Hasan/web_profiles?expandNeffi=true)
 [![trinhminhtriet's Credly Profile](images/ready_tensor.png)](https://app.readytensor.ai/users/ismailehasanlio1)
 
 </br>
