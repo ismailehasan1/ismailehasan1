@@ -2,7 +2,7 @@
 
 [![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)
 [![trinhminhtriet's Facebook Profile](images/facebook.png)](https://www.facebook.com/mi.hasan.395/)
-[![trinhminhtriet's X Profile](images/twitter.png)]([https://x.com/trinhminhtriet](https://www.xing.com/profile/Ismaile_Hasan/web_profiles?expandNeffi=true))
+[![trinhminhtriet's Xing Profile](images/xing.png)]([https://x.com/trinhminhtriet](https://www.xing.com/profile/Ismaile_Hasan/web_profiles?expandNeffi=true))
 [![trinhminhtriet's Credly Profile](images/ready_tensor.png)](https://app.readytensor.ai/users/ismailehasanlio1)
 
 </br>
@@ -18,13 +18,13 @@ I really enjoy connecting with others, swapping ideas, and picking up new insigh
 - 👨 I’m Ismaile Hasan(Hasan).
 - 😄 Pronouns: he/him/his.
 - 📧 How to reach me: ismailehasanlio05@gmail.com
-- 🌐 Website: sites.google.com/view/ismailehasan/home
+- 🌐 Website: [Portfolio](sites.google.com/view/ismailehasan/home)
 
 ## 🤝 Looking forward to connecting!
 
 
 I'm always open to connecting with other developers and technology enthusiasts.
-Reach out on  [LinkedIn](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)—and just mention GitHub so I know where we crossed paths! 😊
+Reach out on  [LinkedIn](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/) and just mention GitHub so I know where we crossed paths! 😊
 
 ## Statistics
 
