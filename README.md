@@ -1,5 +1,5 @@
 ### Hi there, I'm <a href="https://sites.google.com/view/ismailehasan/home" target="_blank" title="Ismaile Hasan">Ismaile Hasan</a> 👋
-<h3 align="left">A passionate Data Scientist from Germany.</h3>
+<h3 align="left">A passionate Data Analyst/Scientist.</h3>
 
 [![Hasan's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/md-ismaile-hasan-ba537018a/)
 [![Hasan's Facebook Profile](images/facebook.png)](https://www.facebook.com/mi.hasan.395/)
