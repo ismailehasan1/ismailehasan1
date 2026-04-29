@@ -25,7 +25,7 @@ I really enjoy connecting with others, swapping ideas, and picking up new insigh
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,css,docker,gcp,fabric,html,illustrator,linux,matlab,mongodb,sql,pandas,ps,postgresql,python,pytorch,sklearn,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,css,docker,gcp,html,illustrator,linux,matlab,mongodb,mssql,ps,postgresql,python,pytorch,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
 
 
